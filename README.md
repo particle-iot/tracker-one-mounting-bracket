@@ -2,6 +2,8 @@
 
 Welcome to the open-source repository for the Tracker One Mounting Bracket, aka Project Varia, a retrofit mounting system for the [Particle Tracker One](https://www.particle.io/tracker-one/). The aim of this project is to provide a comprehensive, flexible, and easy-to-implement mounting solution for easily and securely mounting the Tracker One to any asset or system, facilitating hassle-free deployment in any environment.
 
+![Example](./assets/magnetic_mounting_gif.gif)
+
 This repository contains a selection of assets and design files for the mounting system, including detailed 2D drawings, a comprehensive Bill of Materials (BOM), STEP files, and STL files for 3D printing.
 
 ## Features
