@@ -47,7 +47,7 @@ The hardware folder contains detailed design files that can be used for manufact
 
 ## Usage
 
-Feel free to use these designs as a reference for creating your own Tracker One mounts or use them directly in your designs. If you choose to use these designs, you can have the parts CNC machined for immediate use. We love [fictiv](https://www.fictiv.com) at Particle for our professional CND and 3D printing needs, but there are lots of good alternatives available in the global market that are just as good!
+Feel free to use these designs as a reference for creating your own Tracker One mounts or use them directly in your designs. If you choose to use these designs, you can have the parts CNC machined for immediate use. We love [fictiv](https://www.fictiv.com) at Particle for our professional CNC and 3D printing needs, but there are lots of good alternatives available in the global market that are just as good!
 
 ![Rear Assembly2](./assets/Rear_Assembley2.png)
 
